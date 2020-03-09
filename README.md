@@ -12,17 +12,17 @@ You will need the following things properly installed on your computer.
 * [Ember CLI](https://ember-cli.com/)
 * [Google Chrome](https://google.com/chrome/)
 
-## Installation (skip this if you are installing ember as global)
+## Ember CLI
+
+* `npm install -g ember-cli`
+
+## Installation
 
 - Make sure your path in the terminal is the project path such that `cd emberjs-project` e.g. C:\Users\<User Name>\Desktop\emberjs-project and run the following command.
 
 * `git clone <repository-url>` this repository
 * `cd ember-project`
 * `npm install`
-
-## Global Installation (recommended)
-
-* `npm install -g ember-cli`
 
 ## Running / Development
 
